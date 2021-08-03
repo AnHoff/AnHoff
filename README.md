@@ -11,4 +11,9 @@
 
   - Currently learning web development.
   - Looking for an internship!
-  
+
+### Highlights:
+<div>
+  <img align="left" img height="111em" src="https://github-readme-stats.vercel.app/api/pin/?username=AnHoff&repo=Recurso-web-parallax&theme=ayu-mirage"/>
+  <img align="center" img height="111em" src="https://github-readme-stats.vercel.app/api/pin/?username=AnHoff&repo=Registro-de-partidas-lol&theme=ayu-mirage"/>
+</div>
