@@ -3,11 +3,12 @@
 <br>
 
 <div>
-  <img align="left" img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnHoff&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img align="center" img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnHoff&layout=compact&theme=tokyonight"/>
+  <img align="left" img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnHoff&hide=issues,contribs&show_icons=true&theme=ayu-mirage&count_private=true"/>
+  <img align="center" img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnHoff&layout=compact&theme=ayu-mirage"/>
 </div>
 
 <br>
 
   - Currently learning web development.
-  - Looking for a part-time job!
+  - Looking for an internship!
+  
