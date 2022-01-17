@@ -9,5 +9,4 @@
 
 <br>
 
-  - Currently learning web development.
-  - Looking for an internship!
+  - Currently just focusing on my classes :,)
