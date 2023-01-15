@@ -2,12 +2,6 @@
 
 ## Welcome!
 
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnHoff&theme=tokyonight&show_icons=true&count_private=true"/>
-</div>
-
 <br><br>
 
 <div style="display: inline-block;" align="center">
