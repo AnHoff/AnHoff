@@ -18,15 +18,13 @@
 <br>
 
 ### About me
-I am a Software Engineering student at Universidade de Brasilia (UnB). My focus at the moment is to deepen my knowledge in cybersecurity and to contribute with university projects.
+I am a Software Engineering student at Universidade de Brasilia (UnB). My current goal is to deepen my knowledge in cybersecurity and contribute with university projects.
 
 Some of my recent contributions have been to **PUMA**, a web platform that aims to turn community needs into university projects and **Hygia**, a Python package that makes working with machine learning data easy and intuitive.
 
 <br>
 
 ### Currently...
-**C**ollaborating with **H**ygia
-<br>
 **E**nrolled in **C**ybersecurity **R**esearch
   
 </div>
